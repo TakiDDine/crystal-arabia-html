@@ -1,0 +1,536 @@
+@media (max-width: 600px) and (min-width: 0px) {
+    .desktop{
+        display: none;
+    }
+    .mobile{
+        display: block;
+    }
+
+    img.footer-logo {
+        margin: 0 auto;
+        display: block;
+        margin-bottom: 30px;
+    }
+    
+    footer.main-footer p {
+        text-align: center;
+    }
+    
+    ul.footer-nav.with-line {
+        margin: 0;
+        text-align: center;
+        margin-top: 50px;
+    }
+    
+    ul.footer-nav {
+        margin-top: 0;
+        text-align: center;
+        margin-bottom: 60px;
+    }
+    
+    img.footer-img {
+        left: 5px;
+    }
+    
+    ul.social-icons {
+        margin-left: 0;
+        margin-top: 25px;
+    }
+    
+    .copyright::before {
+        width: 75%;
+        top: -20px;
+        right: 0;
+        left: 0;
+        margin: 0 auto;
+    }
+    
+    .copyright {
+        left: 0;
+        right: 0;
+    }
+    
+    .main-navbar {
+        left: 0;
+        right: 0;
+        display: flex;
+    }
+    
+    .copyright .row {
+        width: 100%;
+        margin: 0 auto;
+        margin-bottom: -40px;
+    }
+    
+    footer.main-footer p {
+        font-size: 16px;
+    }
+    
+    footer.main-footer {
+        padding-top: 170px;
+    }
+    
+    button.navbar-toggler {
+        margin-right: 1rem;
+    }
+    /**Index*/
+    /*.page-index-hero {
+        background-position: right;
+    }*/
+    
+    .main-hero {
+        background-position: right;
+        position: relative;
+        height: 85vh;
+    }
+    
+    .main-hero .content {
+        text-align: center;
+    }
+    
+    .main-hero .content h1.title-bold {
+        font-size: 40px;
+    }
+    
+    .main-hero .content h1 {
+        font-size: 35px;
+        margin-bottom: 27px !important;
+    }
+    
+    .main-hero .container .col-md-6 {
+        width: 100%;
+    }
+    
+    .our-users .col-md-2 img {
+        margin-bottom: 15px;
+    }
+    
+    .our-users .col-md-10 p {
+        text-align: center;
+        display: block;
+        width: 100%;
+    }
+    
+    .main-navbar {
+        width: 100%;
+        display: block;
+        direction: ltr;
+        padding: 40px 0;
+        z-index: 9;
+    }
+    
+    button.navbar-toggler {
+        background: white;
+        float: right;
+    }
+    /**/
+    .our-users .col-md-2 {
+        width: 25%;
+        margin-right: 7%;
+    }
+    
+    .our-users .col-md-10 {
+        width: 65%;
+    }
+    
+    .our-users .col-md-10 p {
+        text-align: right;
+    }
+    
+    .our-users::last-child .col-md-6 {
+        width: 50%;
+    }
+    
+    .our-users:last-child .col-md-4 {
+        width: 60%;
+    }
+    
+    .our-users:last-child .col-md-2 {
+        width: 40%;
+        margin: 0;
+    }
+    
+    .our-users:last-child {
+        margin-top: 15px;
+    }
+    
+    img.main-logo {
+        margin-left: 0;
+    }
+    
+    .main-card img.icon-img {
+        width: 130px;
+    }
+    
+    .main-card h2 {
+        margin-top: -15px;
+    }
+    
+    .main-card .card-img-overlay {padding: 0 60px;}
+    
+    section.futures::before {
+        transform: rotate(90deg);
+    }
+    /******/
+    img.about-home {
+        position: relative;
+        bottom: 0;
+        width: 100%;
+        margin-top: 70px;
+    }
+    
+    .shape-bottom {
+        padding: 140px 0;
+    }
+    
+    .shape-bottom {
+        width: 100%;
+    }
+    
+    .shape-bottom::after {
+        right: 0;
+        z-index: 9;
+    }
+    
+    section.about .col-md-6 {
+        text-align: center;
+        margin-bottom: -25px;
+    }
+    
+    section.about .row .col-md-6 .vcenter-item {
+        display: inline-flex;
+    }
+    
+    section.about p {
+        text-align: justify;
+        text-align-last: center;
+    }
+    /******/
+    section.products {
+        padding: 80px 0;
+    }
+    
+    section.products::after {
+        z-index: -1;
+        left: -220px;
+    }
+    
+    section.products::before {
+        right: -150px;
+        top: 180px;
+    }
+    
+    section.products .main-card img.card-product {
+        margin-top: 50px;
+    }
+    
+    .main-title {
+        margin-bottom: 60px;
+    }
+    
+    section.products .home-products {
+        margin-bottom: 50px;
+    }
+    
+    section.testimonials.shape-bottom {
+        padding: 170px 0px;
+        background-size: contain;
+    }
+    
+    section.testimonials .main-card p {
+        font-size: 17px;
+        text-align: justify;
+        text-align-last: center;
+    }
+    /*****/
+    
+    section.partners.mobile img {
+        height: 100px;
+    }
+    
+    section.partners.mobile {
+        padding-top: 50px;
+    }
+    
+    section.futures {
+        padding-top: 50px;
+    }
+    
+    section.futures .main-title {
+        margin-bottom: 70px;
+    }
+    
+    section.cta {
+        background-position-x: left;
+        background-position-y: bottom;
+        padding: 70px 0;
+    }
+    
+    section.cta .cta-content {
+        text-align: center;
+        margin-top: 30px;
+    }
+    
+    .vcenter-item.cta-check {
+        position: initial;
+        text-align: right;
+    }
+
+    .vcenter-item.cta-check h4 {
+        font-size: 20px;
+    }
+    
+    .vcenter-item.cta-check {
+        margin-bottom: -25px;
+    }
+    
+    section.cta p {
+        text-align-last: center;
+    }
+    
+    section.cta h2 {
+        margin-bottom: 20px;
+    }
+    
+    .main-hero .content h1.title-bold::before {
+        width: 220px;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+    }
+    /**End Index*/
+    /**About**/
+    .page-hero .content img.title-stars-w {
+        right: 0;
+        margin-bottom: 10px;
+    }
+    /***/
+    img.experience {
+        width: 80%;
+        margin: 0 auto;
+        display: block;
+    }
+    
+    .about-about h2.title {
+        text-align: center;
+        margin-top: 50px;
+    }
+    
+    .about-about h4.sub-title {
+        text-align: center;
+    }
+    
+    .about-about .col-md-6 {text-align: center;margin-bottom: -25px;}
+    
+    .about-about .col-md-6 .vcenter-item {
+        display: inline-flex;
+    }
+    
+    .about-about a.main-btn.btn-blue {
+        margin-top: 30px;
+    }
+    
+    .about-about .icon-card {
+        margin: 0 auto;
+        margin-bottom: 30px;
+        width: 100%;
+    }
+    
+    section.about-about {
+        padding-top: 80px;
+        padding-bottom: 60px;
+    }
+    /***/
+    .cloud-card h2 {
+        margin-top: 50px;
+    }
+    
+    .cloud-card {
+        margin-bottom: 50px;
+    }
+    
+    section.why-us .why-us-bg::before {display: none;}
+    
+    section.why-us .why-us-bg {
+        position: relative;
+    }
+    
+    .why-us .main-btn.btn-blue {
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    
+    section.a-cta {
+        padding: 80px 0;
+        background-size: cover;
+        padding-top: 70px;
+    }
+    
+    .a-cta h2.title {
+        text-align: center;
+    }
+    
+    .a-cta .main-btn.btn-blue {
+        margin: 0 auto;
+        display: block;
+        width: 70%;
+        text-align: center;
+        margin-top: 40px;
+    }
+    
+    .a-cta img.a-cta-img {
+        margin-top: 50px;
+    }
+    
+    .faq-card {
+        padding: 20px 25px 20px 30px;
+    }
+    
+    .faq button.accordion-button {
+        left: -5px;
+    }
+    
+    .faq-card h4 {
+        font-size: 19px;
+    }
+    
+    .faq .main-card .card-img-overlay {
+        padding: 0 70px;
+        top: 45%;
+    }
+    
+    .faq .main-card img.icon-img {
+        margin-bottom: 25px;
+    }
+    
+    section.faq {
+        padding-bottom: 60px;
+    }
+    
+    section.faq .main-title {
+        margin-bottom: 40px;
+    }
+    
+    .about-about .col-md-4 {
+        width: 33%;
+    }
+    
+    .about-about .icon-card h2 {
+        margin-top: 0;
+    }
+    
+    .cloud-card img.icon-img {
+        width: 100px;
+    }
+    /**End About**/
+    /**Shop**/
+    section.all-products {
+        padding-top: 70px;
+    }
+    
+    h3.filter-title {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    
+    ul.ul-filter {
+        float: initial !important;
+    }
+    
+    ul.ul-filter li {
+        display: inline-flex;
+        width: 49%;
+        margin-bottom: 20px;
+    }
+    
+    ul.ul-filter li a {
+        width: 100%;
+        text-align: center;
+        padding-right: initial;
+        margin: 0 !important;
+    }
+    
+    ul.ul-filter li a::before {
+        display: none;
+    }
+    
+    ul.ul-filter li a.active {width: 80%;margin-right: 10% !important;}
+    
+    .product-card {
+        width: 80%;
+        margin: 0 auto;
+    }
+    
+    .filter-div {
+        margin-bottom: 50px;
+    }
+    
+    .pagination {
+        width: 80%;
+        margin: 0 auto;
+        margin-top: 15px;
+    }
+    
+    .pagination a.page:nth-child(4),.pagination a.page:nth-child(3) {
+        display: none;
+    }
+    /**End Shop**/
+    /**Contact*/
+    section.contact-form-div .col-md-6:first-child {
+        order: 1;
+        margin-top: 60px;
+    }
+    
+    section.contact-form-div {
+        padding: 90px 0;
+    }
+    
+    .contact-form h1.title.text-center::before {
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+    }
+    
+    .contact-form {
+        padding: 50px 30px;
+    }
+    
+    .contact-form h1.title.text-center {
+        padding: 0 10px;
+    }
+    
+    section.contact-info .main-title {
+        width: 90%;
+        margin-bottom: 60px;
+        margin-top: 30px;
+    }
+    
+    section.contact-info .main-title h1 {position: relative;display: block;}
+    
+    section.contact-info .main-title h1::after {
+        display: none;
+    }
+    
+    section.contact-info .main-title h1::before {
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        top: -50px;
+        display: block;
+    }
+    
+    .main-card {
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+    
+    section.contact-info .main-card h2 {
+        font-size: 28px;
+    }
+    
+    .contact-content h1 {
+        font-size: 30px;
+    }
+    /**End contact**/
+}
