@@ -70,9 +70,6 @@
         padding-top: 170px;
     }
     
-    button.navbar-toggler {
-        margin-right: 1rem;
-    }
     /**Index*/
     /*.page-index-hero {
         background-position: right;
@@ -114,7 +111,6 @@
     .main-navbar {
         width: 100%;
         display: block;
-        direction: ltr;
         padding: 40px 0;
         z-index: 9;
     }
@@ -519,7 +515,7 @@
         display: block;
     }
     
-    .main-card {
+    section.contact-info .main-card {
         width: 80%;
         margin: 0 auto;
         margin-bottom: 30px;

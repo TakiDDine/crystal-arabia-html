@@ -6,14 +6,14 @@
         </div>
         <div class="home-products">
             <div class="row">
-                <?php for ($i=0; $i < 6 ; $i++) : ?>
+                <?php for ($i=1; $i < 7 ; $i++) : ?>
                 <div class="col-md-4">
                     <div class="main-card text-center">
                         <img src="assets/images/card.png" class="card-bg">
                         <div class="card-img-overlay">
-                            <img src="assets/images/product-1.png" class="card-product">
+                            <img src="assets/images/products/product-<?php echo $i; ?>.png" class="card-product">
                             <h4> صابون سنوفا انتعاش الليمون </h4>
-                            <a href="#" class="main-btn btn-buy"> اضف الى السلة </a>
+                            <a href="single-product.php" class="main-btn btn-buy"> معاينة المنتج </a>
                         </div>                        
                     </div>
                 </div>

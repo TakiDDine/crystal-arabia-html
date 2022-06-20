@@ -71,9 +71,11 @@
                 <div class="main-card card-left text-center">
                     <img src="assets/images/card.png" class="card-bg">
                     <div class="card-img-overlay">
-                        <img src="assets/images/icon-1.png" class="icon-img">
-                        <h2> العنوان </h2>
-                        <p> نظراً لنوعية المنتوجات فكرنا في  </p>
+                        <img src="assets/images/icon-adress.png" class="icon-img">
+                        <div class="card-content">
+                            <h2> العنوان </h2>
+                            <p> نظراً لنوعية المنتوجات فكرنا في  </p>
+                        </div>                        
                     </div>                        
                 </div>
             </div>
@@ -81,9 +83,11 @@
                 <div class="main-card card-left text-center">
                     <img src="assets/images/card.png" class="card-bg">
                     <div class="card-img-overlay">
-                        <img src="assets/images/icon-1.png" class="icon-img">
-                        <h2> رقم الهاتف </h2>
-                        <p> +966 12 608 0707 </p>
+                        <img src="assets/images/icon-phone.png" class="icon-img">
+                        <div class="card-content">
+                            <h2> رقم الهاتف </h2>
+                            <p> +966 12 608 0707 </p>
+                        </div>
                     </div>                        
                 </div>
             </div>
@@ -91,9 +95,11 @@
                 <div class="main-card card-left text-center">
                     <img src="assets/images/card.png" class="card-bg">
                     <div class="card-img-overlay">
-                        <img src="assets/images/icon-1.png" class="icon-img">
-                        <h2> البريد الالكتروني </h2>
-                        <p> info@crystalarabia.com </p>
+                        <img src="assets/images/icon-mail.png" class="icon-img">
+                        <div class="card-content">
+                            <h2> البريد الالكتروني </h2>
+                            <p> info@crystalarabia.com </p>
+                        </div>
                     </div>                        
                 </div>
             </div>

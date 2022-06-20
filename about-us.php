@@ -218,7 +218,7 @@
                         <img src="assets/images/call-icon.png" class="icon-img">
                         <h2> أفضل حل لتنظيف منزلك او مكتبك </h2>
                         <p> لا تتردد في الاتصال بنا </p>
-                        <h4> +966 12 608 0707 </h4>
+                        <a href="tel:++966126080707" class="phone-link"> +966 12 608 0707 </a>
                     </div>                        
                 </div>
             </div>

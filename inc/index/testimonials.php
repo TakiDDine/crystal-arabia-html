@@ -9,7 +9,9 @@
                 <div class="main-card card-left text-center">
                     <img src="assets/images/card.png" class="card-bg">
                     <div class="card-img-overlay">
-                        <img src="assets/images/icon-1.png" class="icon-img">
+                        <img src="assets/images/clients/client-1.png" class="icon-img">
+                        <p class="client-name"> د. هشام المبارك </p>
+                        <p class="client-company"> مدير شركة الأواني </p>
                         <p> هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق. </p>
                     </div>                        
                 </div>
@@ -18,7 +20,9 @@
                 <div class="main-card card-right text-center">
                     <img src="assets/images/card-right.png" class="card-bg">
                     <div class="card-img-overlay">
-                        <img src="assets/images/icon-1.png" class="icon-img">
+                        <img src="assets/images/clients/client-1.png" class="icon-img">
+                        <p class="client-name"> د. هشام المبارك </p>
+                        <p class="client-company"> مدير شركة الأواني </p>
                         <p> هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق. </p>
                     </div>                        
                 </div>
@@ -27,7 +31,9 @@
                 <div class="main-card card-left text-center">
                     <img src="assets/images/card.png" class="card-bg">
                     <div class="card-img-overlay">
-                        <img src="assets/images/icon-1.png" class="icon-img">
+                        <img src="assets/images/clients/client-1.png" class="icon-img">
+                        <p class="client-name"> د. هشام المبارك </p>
+                        <p class="client-company"> مدير شركة الأواني </p>
                         <p> هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق. </p>
                     </div>                        
                 </div>
